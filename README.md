@@ -63,6 +63,7 @@ Significance Method: Model 1
 
 #### Statistical Analysis:
 Significance Method: Model 2 
+
 ![image](https://github.com/caand4/-Retail-Analysis-with-Walmart/assets/80293132/d5729aea-547c-436d-9e44-257f9746bdab)
 #### Variance Inflation Factor Analysis
 ![image](https://github.com/caand4/-Retail-Analysis-with-Walmart/assets/80293132/f511562e-c91a-4d5c-884e-68d29bca72bd)
