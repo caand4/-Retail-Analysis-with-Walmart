@@ -1,4 +1,4 @@
-![image](https://github.com/caand4/-Retail-Analysis-with-Walmart/assets/80293132/a590b5ec-2c28-4fcf-a05b-81a883698ecd)# Retail Analysis with Walmart
+# Retail Analysis with Walmart
 
 ## Business Scenario
 Walmart is one of the biggest companies in the US with many stores across the country. One very vital aspect of Walmart’s success is strategic planning and data analysis. The company has recently run into a Machine Learning algorithm error that has caused challenges due to unforeseen demands. As such, Walmart wants to acquire a model that would accurately predict future sales of the company. 
